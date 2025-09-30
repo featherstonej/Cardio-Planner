@@ -1,4 +1,4 @@
-# Privacy Policy for Cardiac Rehab Cardio Planner
+# Cardiac Rehab Cardio Planner
 
 **Last Updated:** October 26, 2023
 
