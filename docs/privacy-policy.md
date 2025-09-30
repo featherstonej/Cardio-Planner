@@ -1,4 +1,4 @@
-# Cardiac Rehab Cardio Planner
+# Privacy Policy
 
 **Last Updated:** October 26, 2023
 
