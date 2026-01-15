@@ -15,7 +15,7 @@ Please read this privacy policy carefully as it will help you make informed deci
 **2.1. Information You Provide to Us**
 
 *   **Workout Data:** We collect information that you voluntarily provide to us when you create and save treadmill interval sets. This includes details such as duration, speed, and incline for each interval. This data is stored locally on your device and is used to provide the core functionality of the App, which is to help you manage and execute your cardiac rehabilitation cardio plans.
-*   **No Personal Identification Information:** We **do not** require you to create an account or provide any personally identifiable information (PII) such as your name, email address, or phone number to use the basic functionalities of the App.
+*   **No Personal Identification Information: We **do not** require you to create an account or provide any personally identifiable information (PII) to use the App. Note: If you voluntarily provided your email address via our tester sign-up form, that email is used strictly for Google Play Store invitation purposes and is not linked to your in-app workout data.
 
 **2.2. Information Automatically Collected**
 
